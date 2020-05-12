@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace ParksRecClient.Models
+namespace ParksRec.Client.Models
 {
     class BandName
     {
