@@ -2,7 +2,7 @@
 
 namespace ParksRec.Client.Models
 {
-    class BandName
+    public class BandName
     {
         [JsonProperty("name")]
         public string Name { get; set; }
