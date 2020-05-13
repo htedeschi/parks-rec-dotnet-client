@@ -4,11 +4,30 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>ParksRec.Client</RootNamespace>
     <LangVersion>8</LangVersion>
+    <Authors>Henrique Tedeschi</Authors>
+    <Product />
+    <Company />
+    <Description>A .NET client to use the parks and recreation api (http://www.parksandrecapi.com)</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>http://www.parksandrecapi.com</PackageProjectUrl>
+    <PackageIcon>image.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryUrl>https://github.com/htedeschi/ParksRecClient</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>parks and recreation parks and rec parks and recreation rec nbc leslie knope ron swanson april ludgate andy dwier ann perkins mark brendanawicz tom haverford ben wyatt chris traeger jerry larry terry garry gergich donna meagle craig middlebrooks pawnee indiana li'l sebastian little sebastian orin tammy swanson tammy I tammy II jeremy jamm joan calamezzo perd hapley shauna malwae-tweep brandi maxxxx bobby newport</PackageTags>
+    <PackageReleaseNotes>New NuGet Package as the .NET Client for the parks and rec api</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="HttpClientFactoryLite" Version="0.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\henri\Downloads\image.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
