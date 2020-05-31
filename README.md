@@ -111,6 +111,8 @@ var seasons = await client.Seasons.Get("special");
 ## Author
 **[Henrique Tedeschi](https://github.com/htedeschi)**
 
+*Not that you have to, but if you want to support me, you can by buying me a bottle of vanilla coke* ✌ [PayPal](http://paypal.me/henriquetedeschi), [Venmo](https://venmo.com/Henrique-Tedeschi)
+
 <br/>
 <div align="right">
     <b><a href="#overview">↥ back to top</a></b>
