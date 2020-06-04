@@ -1,6 +1,6 @@
-﻿using Microsoft.Extensions.Http;
-using ParksRec.Client.Helpers;
+﻿using ParksRec.Client.Helpers;
 using System.Net.Http;
+using HttpClientFactoryLite;
 
 namespace ParksRec.Client
 {
