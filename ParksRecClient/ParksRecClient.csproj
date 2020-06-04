@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -12,7 +12,7 @@
     <PackageProjectUrl>http://www.parksandrecapi.com</PackageProjectUrl>
     <PackageIcon>image.png</PackageIcon>
     <PackageIconUrl />
-    <RepositoryUrl>https://github.com/htedeschi/ParksRecClient</RepositoryUrl>
+    <RepositoryUrl>https://github.com/htedeschi/parks-rec-dotnet-client</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageTags>parks and recreation parks and rec parks and recreation rec nbc leslie knope ron swanson april ludgate andy dwier ann perkins mark brendanawicz tom haverford ben wyatt chris traeger jerry larry terry garry gergich donna meagle craig middlebrooks pawnee indiana li'l sebastian little sebastian orin tammy swanson tammy I tammy II jeremy jamm joan calamezzo perd hapley shauna malwae-tweep brandi maxxxx bobby newport</PackageTags>
     <PackageReleaseNotes>Updated the HttpClientFactoryLite version. It will no longer conflict the namespaces.</PackageReleaseNotes>
